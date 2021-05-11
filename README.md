@@ -13,7 +13,7 @@ I'm **David Garrido García**, I am a **Fullstack Web Developer** and **Technici
 - ⚡ Dato curioso: Me implico mucho en lo que hago
 - 📫 Como contactarme:
 
-  <a href="mailto:garry142000@gmail.com"><img src="https://github.com/DavidGarrido1400/resources/blob/main/IconGmail.png" width="50" height="50" ></a>
+  <a href="mailto:garry142000@gmail.com"><img src="https://github.com/FranciscoFer99/resources/blob/main/IconGmail.png" width="50" height="50" ></a>
 
 
 ## Technologies and Tools do I use in my day to day ⚡
